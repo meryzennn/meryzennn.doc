@@ -35,7 +35,7 @@ On security group try enable or check the HTTPS (TCP:443) and HTTP (TCP:80)
 # ECS
 
 ## Use ssh
-![connect](/src/content/posts/alibaba-image/ssh.png)
+![connect](./ssh.png)
 :::tip
 if you wanna use ssh instead of Remote connection from alibaba you can use ssh
 :::
@@ -44,15 +44,15 @@ if you wanna use ssh instead of Remote connection from alibaba you can use ssh
 ssh root@your-public-ip
 ```
 and then insert custom password you make on Logon Credential
-![security-group](/src/content/posts/alibaba-image/terminal-ssh.png)
+![security-group](./terminal-ssh.png)
 
 
 ## Use Terminal On alibaba cloud
-![connect](/src/content/posts/alibaba-image/ssh.png)
+![connect](./ssh.png)
 - You can click Connect
-![remote-conect](/src/content/posts/alibaba-image/remote-con.png)
+![remote-conect](./remote-con.png)
 - Click Sign in now
-![terminal-1](/src/content/posts/alibaba-image/terminal-1.png)
+![terminal-1](./terminal-1.png)
 :::note
 Connection use ip public
 :::
@@ -102,7 +102,7 @@ nano /etc/nginx/sites-available/default
 ```
 
 ## Configure using nano
-![nano](/src/content/posts/alibaba-image/nginx-conf-nano.png)
+![nano](./nginx-conf-nano.png)
 :::tip
 Use your arrow key for move the cursor
 :::
@@ -110,7 +110,7 @@ Use your arrow key for move the cursor
 on the config you can see **root /var/www/html/yourprojectname;**
 
 and then **Write Out** by type combination **CTRL + O**
-![nano-write](/src/content/posts/alibaba-image/nano-write.png)
+![nano-write](./nano-write.png)
 if you see this file name to write you can hit **enter**
 
 To EXIT nano type Combination key CTRL + X
@@ -122,7 +122,7 @@ sudo systemctl restart nginx
 ```
 
 # Accses The Website
-![ip](/src/content/posts/alibaba-image/alibaba-instance.png)
+![ip](./alibaba-instance.png)
 On instance you can copy the public ip into your search bar.
 congratulations your website running on alibaba cloud using ECS
 
