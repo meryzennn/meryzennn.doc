@@ -27,7 +27,7 @@ On security group try enable or check the HTTPS (TCP:443) and HTTP (TCP:80)
 ## Management
 - Logon Credential you can choose custom password 
 
-![logon](/src/content/posts/alibaba-image/management.png)
+![logon](./management.png)
 
 - You can finish your order
 
