@@ -3,6 +3,7 @@ title: Alibaba Cloud Setup ECS
 published: 2024-10-11
 description: Using ECS on alibaba cloud for deploying a code
 tags: [alibaba, cloud]
+image: "./ecs.png"
 category: Cloud
 draft: false
 ---
