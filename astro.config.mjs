@@ -33,6 +33,7 @@ const oklchToHex = str => {
 export default defineConfig({
   site: 'https://meryzennn.doc.vercel.app/',
   base: '/',
+  output: 'static',
   trailingSlash: 'always',
   integrations: [
     tailwind(),
