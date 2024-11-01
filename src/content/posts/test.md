@@ -3,8 +3,8 @@ title: test
 published: 2024-11-02
 description: ''
 image: ''
-tags: []
-category: ''
+tags: [test]
+category: 'test'
 draft: false 
-lang: ''
+lang: 'en'
 ---
