@@ -16,12 +16,12 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: true,
-    src: 'assets/images/banner1-2.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/bg2.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: true,         // Display the credit text of the banner image
       text: '',              // Credit text to be displayed
-      url: 'https://www.instagram.com/p/Cui_J68JCP-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=='                // (Optional) URL link to the original artwork or artist's page
+      url: ''                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
