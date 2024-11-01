@@ -22,8 +22,7 @@ I Use Ubuntu V.16.04 64bit.
 :::important
 On security group try enable or check the HTTPS (TCP:443) and HTTP (TCP:80)
 :::
-<img src="/src/content/posts/alibaba-image/alibaba-security.png" alt="security-group" />
-
+![security-group](/src/assets/images/alibaba-security.png)
 
 ## Management
 - Logon Credential you can choose custom password 
